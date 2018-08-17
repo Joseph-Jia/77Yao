@@ -48,7 +48,7 @@
       height: 100%;
       z-index: 2;
       opacity: .3;
-      background-color: black;
+      background-color: grey;
   }
   
   .front {
@@ -65,7 +65,7 @@
   }
   
   .small-title {
-      color: gray;
+      color: black;
       line-height: 0.5rem;
       font-size: 10px;
   }
